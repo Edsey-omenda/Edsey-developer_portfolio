@@ -24,6 +24,22 @@
             <h1>Hey, i am James Omenda</h1>
             <p>Software Engineer<sub>web development!</sub></p>
             <form>Chat me@</form>
+            <button class="open-button" onclick="openChat()">Hi, let's chat</button>
+
+<div class="chat-popup" id="letChat">
+  <form class="form-container">
+    <h1>Hi, i'm Engineer James</h1>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="chat"><b>Message</b></label>
+    <input type="text" placeholder="Enter text" name="chat" required>
+
+    <button type="submit" class="btn">Send</button>
+    <button type="button" class="btn cancel" onclick="closeChat()">Close</button>
+  </form>
+</div>
         </div>
     </section>
     <!--project section-->
@@ -35,17 +51,11 @@
                 <p>This  is a landing page for Moringa school</p>
                 <p>Technologies used - HTML and CSS</p>
             </div>
-        </div>
-        <div class="myworks">
-            <h2>My projects</h2>
             <div class="mcp">
-                <h3>Movers company landinga and second page</h3>
+                <h3>Movers company web page</h3>
                 <p>This  is a landing page for Movers company and   the second page is linked at  the the movers tab of  the nav bar</p>
                 <p>Technologies used - HTML and CSS</p>
             </div>
-        </div>
-        <div class="myworks">
-            <h2>My projects</h2>
             <div class="jsa">
                 <h3>Javascript quiz app</h3>
                 <p>This  is a Javascript quiz app, where one  can do the basic  tests on Js, submit  and get their scores back</p>

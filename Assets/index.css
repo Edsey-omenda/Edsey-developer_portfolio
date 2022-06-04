@@ -18,13 +18,15 @@ nav{
     display: inline-block;
     padding: 15px;
     text-align: center;
+    color: white;
+    font-size: large;
 }
 #_header{
     opacity: 0.8;
     background-image:url("../Assets/IMG_3982-1.jpg");
     background-size:cover;
     background-position: center center;
-    height:fit-content;
+    height:300vh;
 }
 #_header > .dheader{
     padding-top: 100px;
@@ -32,7 +34,8 @@ nav{
 #_header > .dheader > .text{
     padding-left: 150px;
     font-size: 36px;
-    color: blue;
+    color: white;
+    padding-top: 100px;
 }
 .myworks{
     display: flex;

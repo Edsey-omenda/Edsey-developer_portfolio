@@ -1,6 +1,8 @@
 My portfolio ##By James Omenda
  ##Screenshot images
- ![]
+ ![Screenshot from 2022-06-04 17-28-05](https://user-images.githubusercontent.com/104456561/172025201-737a98ec-4b68-45a1-81e8-630c17563c7c.png)
+
+![Screenshot from 2022-06-04 17-29-06](https://user-images.githubusercontent.com/104456561/172025215-54748b4a-57e8-4fbf-9bd7-948c93bdf97b.png)
 
 ##Table of contents
  Description Features 
